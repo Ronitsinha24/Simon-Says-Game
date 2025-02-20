@@ -1,0 +1,2 @@
+# Simon-Says-Game
+SIMON SAYS GAME USING HTML , CSS and JAVASCRIPT
